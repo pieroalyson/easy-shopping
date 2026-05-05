@@ -19,8 +19,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/pieroalyson/easy-shopping.git
 cd easy-shopping
-npm install
-npm start
 ```
 ---
 
