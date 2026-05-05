@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/pieroalyson/easy-shopping/blob/main/assets/mockup_easyshopping.jpg?raw=true">
 
 # We-Care 💙
 
