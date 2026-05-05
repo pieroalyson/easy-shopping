@@ -1,6 +1,6 @@
 <img src="https://github.com/pieroalyson/easy-shopping/blob/main/assets/mockup_easyshopping.jpg?raw=true">
 
-# We-Care 💙
+# Easy-Shopping 🛒
 
 A project dedicated to the practice of stacks such as HTML5 and CSS3, as well as features like screen adaptation with @mediaquery, as part of my skills training. For that purpose I used an UI Design mockup made on Figma by DevClub's team.
 
